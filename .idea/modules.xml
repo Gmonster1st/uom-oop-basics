@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/shapes/shapes.iml" filepath="$PROJECT_DIR$/shapes/shapes.iml" />
       <module fileurl="file://$PROJECT_DIR$/uom-oop-basics.iml" filepath="$PROJECT_DIR$/uom-oop-basics.iml" />
     </modules>
   </component>
