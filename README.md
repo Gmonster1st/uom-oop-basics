@@ -1,2 +1,4 @@
-Introduction to OOP Basics with Professor Stelios Xinogalos 
-by UOM KEDIVIM in collaboration with Deloitte 
+# Introduction to OOP Basics 
+# UOM KEDIVIM in collaboration with Deloitte 
+## Professor: Stelios Xinogalos
+### Student-Author: Dimitrios Papazisis 
